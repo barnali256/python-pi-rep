@@ -1,2 +1,8 @@
 #!/usr/bin/python
-print("hello world")
+
+
+def msg(message):
+    print(message)
+
+
+msg("hello people")
