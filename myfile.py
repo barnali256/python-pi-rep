@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+//no longer need comments
 //another comment
 def msg(message):
     print(message)
